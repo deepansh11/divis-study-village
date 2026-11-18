@@ -1,0 +1,9 @@
+{
+  "name": "Divi’s Study Village",
+  "short_name": "Divi’s Village",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4ec",
+  "theme_color": "#f6f4ec",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+}

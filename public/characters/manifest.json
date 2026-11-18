@@ -1,0 +1,260 @@
+{
+  "mini-wave": {
+    "width": 320,
+    "height": 539,
+    "bytes": 86170,
+    "sha256": "dac62f403bb66de5bbf7c14457dd64a6d053fc7ee0f4261828229ce3f5987261"
+  },
+  "mini-reading": {
+    "width": 242,
+    "height": 390,
+    "bytes": 62308,
+    "sha256": "3015c117e3a14e2c5dd6af980f8154c268aa54948c9f0d55c4b901858f390219"
+  },
+  "mini-heart": {
+    "width": 270,
+    "height": 481,
+    "bytes": 76476,
+    "sha256": "26b8090901e06abcb857a30d933e2a8d1e7101be29fd931a4082e66a8497c742"
+  },
+  "mini-peek": {
+    "width": 302,
+    "height": 191,
+    "bytes": 31318,
+    "sha256": "36bedac08447dd3b9aa34501faead50a158ef14416afaffe6d4bf9df45d85eff"
+  },
+  "mini-thumbs-up": {
+    "width": 314,
+    "height": 496,
+    "bytes": 76992,
+    "sha256": "d42289e4fa3ff475ab8bfa2e02dd0b11fc4d300731ea4e0c4d4983d2582051cf"
+  },
+  "mini-shrug": {
+    "width": 211,
+    "height": 272,
+    "bytes": 33644,
+    "sha256": "e0620b73ddb708f9c30b7ccc8a062d125b2a7be728ae8064c960ec97add52a9b"
+  },
+  "mini-tea": {
+    "width": 247,
+    "height": 502,
+    "bytes": 78414,
+    "sha256": "235dab75d276a251342a8ec65ea1df6109d5a4773f28f8f21a9168c6441bfb8f"
+  },
+  "mini-celebrate": {
+    "width": 327,
+    "height": 538,
+    "bytes": 90018,
+    "sha256": "6ab8f7b8af0aef2b4da37ec8b4b5a6b92a4ee4aa8dcff22e74f1521d9091c09a"
+  },
+  "mini-laptop": {
+    "width": 272,
+    "height": 385,
+    "bytes": 64142,
+    "sha256": "ea655d6e5ee7eb3d192c064319d2de002f89abd0b05b0a43b18d0ef5ead60167"
+  },
+  "mini-sleepy": {
+    "width": 265,
+    "height": 517,
+    "bytes": 79956,
+    "sha256": "73f2ce601171fadeb8a75c1fa9f938636ce2d1b85165d4b9d1c85f36fa99123d"
+  },
+  "mini-flex": {
+    "width": 309,
+    "height": 496,
+    "bytes": 83454,
+    "sha256": "47965f00355beb47ac2c634703833b1959caab715d45575b59395255ed46ec84"
+  },
+  "mini-watering": {
+    "width": 301,
+    "height": 627,
+    "bytes": 100710,
+    "sha256": "b8e32963c8d2042498a4b1ca3f83f72842c7f021cd0d40853847be9c449f1a88"
+  },
+  "mini-kiss": {
+    "width": 267,
+    "height": 502,
+    "bytes": 81540,
+    "sha256": "88cf94dff16b5ddc9fbead1805f3e1fc9ec42ba27d6dad9ed746938dd10dda57"
+  },
+  "ghibli-totoro": {
+    "width": 255,
+    "height": 345,
+    "bytes": 51270,
+    "sha256": "5b9b1528bbb8e618a5145b1d104f0e3b8153f7ac0a95fd833020689ffa7acf3b"
+  },
+  "ghibli-blue-totoro": {
+    "width": 181,
+    "height": 256,
+    "bytes": 30798,
+    "sha256": "d1ba0a7c0603bd988a2ad20f843a5a4353590e5e5822ee503570ccd53d9de797"
+  },
+  "ghibli-white-totoro": {
+    "width": 91,
+    "height": 124,
+    "bytes": 7786,
+    "sha256": "be19626058b31ab2780138e848b4a19a529c5c9f4fc16c8746fb6d82445fdaeb"
+  },
+  "ghibli-soot-sprites": {
+    "width": 166,
+    "height": 145,
+    "bytes": 15402,
+    "sha256": "dcd5cb9ba6a80195752a81daabb765f5503f41122d7f46bb507aa20bb47e7a7f"
+  },
+  "ghibli-catbus": {
+    "width": 239,
+    "height": 141,
+    "bytes": 27416,
+    "sha256": "a5012b0c8690432701c829b91251517e2842a6048fa50a8a38218c2db54f4e88"
+  },
+  "ghibli-kiki": {
+    "width": 157,
+    "height": 276,
+    "bytes": 30840,
+    "sha256": "da9f6eeddea12ea5f8945e10ee6100492725a8ef4b8359e81ad931eefcaf0acb"
+  },
+  "ghibli-jiji": {
+    "width": 127,
+    "height": 178,
+    "bytes": 12590,
+    "sha256": "e9ef6e5a5f12f1d5afce9900dc303bffd5ebcc9a74e284a01fa35c162285efc5"
+  },
+  "ghibli-san": {
+    "width": 152,
+    "height": 258,
+    "bytes": 31668,
+    "sha256": "0bae5ae0535f6842ccb09f16876e12314386e64da688a9c610a25eace31b9e2f"
+  },
+  "ghibli-kodama": {
+    "width": 99,
+    "height": 174,
+    "bytes": 11412,
+    "sha256": "362cb968fcc301a7fad23465f8dbcb914eb0f3d713bb6ddfe37b6faa968515d2"
+  },
+  "ghibli-howl": {
+    "width": 224,
+    "height": 276,
+    "bytes": 43604,
+    "sha256": "a82590a00aaf7cddf75221b6c0be3d86e9aecdb0f1591f985e07535f64553d8c"
+  },
+  "ghibli-calcifer": {
+    "width": 180,
+    "height": 199,
+    "bytes": 25630,
+    "sha256": "36cde89f44826862c19ee33921931812a58b3fd7c33083581cb356da6d134775"
+  },
+  "ghibli-no-face": {
+    "width": 191,
+    "height": 247,
+    "bytes": 23758,
+    "sha256": "ab2cf1c5eb180433a129e8f2fdc010f7539a611834e09f29e91bf5c50962658f"
+  },
+  "ghibli-haku": {
+    "width": 238,
+    "height": 260,
+    "bytes": 38502,
+    "sha256": "669f4da0bc695c5a4a05980420ebbeec5e8204b5eefeb9968de4b0a0854ddcfe"
+  },
+  "ghibli-ponyo": {
+    "width": 164,
+    "height": 248,
+    "bytes": 29084,
+    "sha256": "599eef45f8370b8cb623317eb3febfaa642cf1df6c667dac1dc96a19e9eef2ea"
+  },
+  "ghibli-turnip-head": {
+    "width": 223,
+    "height": 275,
+    "bytes": 24890,
+    "sha256": "3a0d3014baaaa98cf33763dbaedc264451265bdc105ff749eef49ffcdd541224"
+  },
+  "mini-tea-atlas": {
+    "width": 950,
+    "height": 300,
+    "frames": 5,
+    "frameWidth": 190,
+    "frameHeight": 300,
+    "bytes": 134178,
+    "sha256": "93e663d50bb77971a2683ee98621a15e432f88380e276afba3d5ed7dbaa31b2d"
+  },
+  "mini-reading-atlas": {
+    "width": 950,
+    "height": 300,
+    "frames": 5,
+    "frameWidth": 190,
+    "frameHeight": 300,
+    "bytes": 143276,
+    "sha256": "ae674b0f599a1c0ea1f2ae5148ea8689d907bccfb77c2cb3cf88aa0e09309e38"
+  },
+  "mini-kiss-atlas": {
+    "width": 950,
+    "height": 300,
+    "frames": 5,
+    "frameWidth": 190,
+    "frameHeight": 300,
+    "bytes": 131948,
+    "sha256": "f07ab0d2af80d0f6998096ad6a525632c4107d1fa65e3fac1ec9655bfbff1108"
+  },
+  "mini-celebrate-atlas": {
+    "width": 1140,
+    "height": 300,
+    "frames": 6,
+    "frameWidth": 190,
+    "frameHeight": 300,
+    "bytes": 146424,
+    "sha256": "61d9822e4ee82bc982e98224dab20f08428fcb239dfd29571ee97f18b8c1fd8b"
+  },
+  "mini-laptop-atlas": {
+    "width": 950,
+    "height": 300,
+    "frames": 5,
+    "frameWidth": 190,
+    "frameHeight": 300,
+    "bytes": 135472,
+    "sha256": "47f71fec7d2c3339c659c19ccd03aa2e92158f3096e70337dd66747555410590"
+  },
+  "mini-watering-atlas": {
+    "width": 1200,
+    "height": 300,
+    "frames": 5,
+    "frameWidth": 240,
+    "frameHeight": 300,
+    "bytes": 137954,
+    "sha256": "7a7a1a4cb2e7db62f08b6064d23208c26cfdf852cb67711fa5819181a6fae2fc"
+  },
+  "mylo-idle-atlas": {
+    "width": 1260,
+    "height": 240,
+    "frames": 6,
+    "frameWidth": 210,
+    "frameHeight": 240,
+    "bytes": 115682,
+    "sha256": "1fc9b38be573b6c1520e7f1d985ea1b4714beb76477ffea42bcb1f905c40c979"
+  },
+  "mylo-playful-atlas": {
+    "width": 960,
+    "height": 250,
+    "frames": 4,
+    "frameWidth": 240,
+    "frameHeight": 250,
+    "bytes": 78472,
+    "sha256": "1a79fac8787d76a0f2d3378001f75bc31cc6ea8748ce0bd6aeb54baff2603a15"
+  },
+  "mylo-rest-atlas": {
+    "width": 960,
+    "height": 250,
+    "frames": 4,
+    "frameWidth": 240,
+    "frameHeight": 250,
+    "bytes": 67302,
+    "sha256": "457924b55daabbed73d712334111c0b348ccf2f8b3d9915904d873e295e057a8"
+  },
+  "mylo-scratch-atlas": {
+    "width": 1200,
+    "height": 250,
+    "frames": 5,
+    "frameWidth": 240,
+    "frameHeight": 250,
+    "bytes": 129242,
+    "sha256": "ec77d5b9a8592b7b9bae656e2238cdec0dc53dd1bd80531410482637083e455e"
+  }
+}
